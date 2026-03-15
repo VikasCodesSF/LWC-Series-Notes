@@ -2,7 +2,7 @@
 
 _Working with Salesforce Data in Lightning Web Components_
 
-Published: April 2024 • Salesforce LWC Series
+Published: March 2025 • Salesforce LWC Series
 
 ## **Introduction**
 
@@ -119,4 +119,4 @@ The three components - lightning-record-form, lightning-record-edit-form, and li
 
 Easiest to implement. Least code to write. Automatic caching, security, and validation. If your use case fits, Base Lightning Components are almost always the right first choice.
 
-_- Salesforce LWC Developer Series • April 2024 -_
+_- Salesforce LWC Developer Series • March 2025 -_
