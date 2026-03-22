@@ -12,8 +12,8 @@ A personal reference repository for **Lightning Web Components (LWC)** — cover
 ## 📂 What's Inside
 
 - 📄 [Base Lightning Components](https://github.com/VikasCodesSF/LWC-Series-Notes/blob/master/Base%20Lightning%20Component/BasicLightningComponenets.md) — Complete notes on all Base Lightning Components
-- 📄 [lightning/ui*Api Wire Adapters and Functions] — Complete notes on alllightning/ui*Api Wire Adapters and Functions
-- 📄 [Apex in LWC] — Complete notes on Apex in LWC
+- 📄 [lightning/ui*Api Wire Adapters and Functions] (https://github.com/VikasCodesSF/LWC-Series-Notes/blob/master/Apex%20in%20LWC/ApexInLwc.md) — Complete notes on alllightning/ui*Api Wire Adapters and Functions
+- 📄 [Apex in LWC] (https://github.com/VikasCodesSF/LWC-Series-Notes/blob/master/Apex%20in%20LWC/ApexInLwc.md)— Complete notes on Apex in LWC
 
 ---
 
