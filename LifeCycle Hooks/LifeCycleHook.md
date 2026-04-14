@@ -9,11 +9,6 @@
 5. [render()](#5-render)
 6. [errorCallback()](#6-errorcallback)
 7. [Lifecycle Flow — Quick Reference Table](#7-lifecycle-flow--quick-reference-table)
-8. [Error Handling Best Practices — Server Side (Apex)](#8-error-handling-best-practices--server-side-apex)
-9. [Error Handling Best Practices — Client Side (LWC JavaScript)](#9-error-handling-best-practices--client-side-lwc-javascript)
-10. [Error Propagation & the Boundary Pattern](#10-error-propagation--the-boundary-pattern)
-11. [Displaying & Logging Errors](#11-displaying--logging-errors)
-12. [Interview Q&A (5-Year Level)](#12-interview-qa-5-year-level)
 
 ---
 
