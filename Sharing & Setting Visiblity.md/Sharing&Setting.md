@@ -17,7 +17,7 @@
 |---|---|---|
 | Customer Community / High-Volume | **No standard sharing model** | Uses foreign key match on Account/Contact; needs Sharing Sets or Share Groups |
 | Chatter Free / Chatter External | **No sharing** | No CRM record access, no roles |
-| Full Salesforce License | Standard sharing model | Covered by all components below |
+| Full Salesforce License | Standard sharing model | Covered by all components below | 
 
 ---
 
